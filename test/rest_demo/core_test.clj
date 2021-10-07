@@ -1,0 +1,7 @@
+(ns rest-demo.core-test
+  (:require [clojure.test :refer :all]
+            [rest-demo.core :refer :all]))
+
+(deftest a-test
+  (testing "FIXME, I always pass"
+    (is (= 0 0))))
